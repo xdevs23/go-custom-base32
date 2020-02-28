@@ -1,4 +1,4 @@
-package main
+package custombase32
 
 import "encoding/base32"
 
